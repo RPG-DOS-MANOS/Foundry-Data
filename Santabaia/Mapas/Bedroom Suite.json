@@ -1,0 +1,569 @@
+{
+  "name": "Bedroom Suite",
+  "width": 3150,
+  "height": 3450,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [
+    {
+      "x": 959,
+      "y": 2307,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1014,
+      "y": 2542,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1462,
+      "y": 2518,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1293,
+      "y": 2233,
+      "dim": 33.06836,
+      "bright": 16.53418,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1733,
+      "y": 2031,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1733,
+      "y": 2524,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2224,
+      "y": 2028,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2190,
+      "y": 2527,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1987,
+      "y": 2240,
+      "dim": 29.5834045,
+      "bright": 14.7917023,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1951,
+      "y": 1228,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#8C01FF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2222,
+      "y": 1377,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1896,
+      "y": 1164,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1911,
+      "y": 1167,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2225,
+      "y": 1013,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2144,
+      "y": 954,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1897,
+      "y": 1243,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1799,
+      "y": 916,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1989,
+      "y": 1662,
+      "dim": 29.5834045,
+      "bright": 14.7917023,
+      "tintColor": "#8C01FF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2262,
+      "y": 1078,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#8C01FF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1714,
+      "y": 1510,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1723,
+      "y": 1130,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#8C01FF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1505,
+      "y": 1855,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 973,
+      "y": 1957,
+      "dim": 21.3089,
+      "bright": 10.65445,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1368,
+      "y": 1309,
+      "dim": 29.5834045,
+      "bright": 14.7917023,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1148,
+      "y": 908,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1602,
+      "y": 1161,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1575,
+      "y": 875,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 993,
+      "y": 1769,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 918,
+      "y": 901,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 884,
+      "y": 981,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1575,
+      "y": 1765,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 888,
+      "y": 1078,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1599,
+      "y": 1348,
+      "dim": 13.4999447,
+      "bright": 6.74997234,
+      "tintColor": "#FF9900",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 888,
+      "y": 1562,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        2296,
+        1324,
+        2296,
+        842
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1496,
+        842,
+        1654,
+        842
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2296,
+        1324,
+        2296,
+        2606
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        854,
+        2606,
+        854,
+        842
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1654,
+        2285,
+        1654,
+        1804
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2136,
+        2606,
+        2296,
+        2606
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        854,
+        2606,
+        1815,
+        2606
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        854,
+        1804,
+        1014,
+        1804
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1654,
+        1484,
+        1654,
+        1163
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1654,
+        2285,
+        1654,
+        2606
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1654,
+        1964,
+        1815,
+        1964
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2136,
+        1964,
+        2296,
+        1964
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1174,
+        1804,
+        1335,
+        1804
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1496,
+        1804,
+        1654,
+        1804
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1815,
+        2606,
+        1976,
+        2606
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1976,
+        2606,
+        2136,
+        2606
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2296,
+        842,
+        1654,
+        842
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2136,
+        1964,
+        1976,
+        1964
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1976,
+        1964,
+        1815,
+        1964
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1174,
+        1804,
+        1014,
+        1804
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1496,
+        1804,
+        1335,
+        1804
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1174,
+        842,
+        1496,
+        842
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        854,
+        842,
+        1174,
+        842
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
