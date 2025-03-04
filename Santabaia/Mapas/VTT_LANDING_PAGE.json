@@ -1,0 +1,105 @@
+{
+  "name": "VTT_LANDING_PAGE",
+  "width": 1500,
+  "height": 900,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [
+    {
+      "x": 304,
+      "y": 394,
+      "dim": 22.4690914,
+      "bright": 11.2345457,
+      "tintColor": "#00CADD",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 363,
+      "y": 536,
+      "dim": 22.256422,
+      "bright": 11.128211,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 994,
+      "y": 411,
+      "dim": 32.6481667,
+      "bright": 16.3240833,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 868,
+      "y": 421,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 689,
+      "y": 474,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 437,
+      "y": 397,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD00",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        1150,
+        233,
+        333,
+        233
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        -372,
+        233,
+        446,
+        233
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        998,
+        233,
+        1815,
+        233
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
