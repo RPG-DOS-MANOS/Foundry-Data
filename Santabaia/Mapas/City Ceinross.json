@@ -1,0 +1,12849 @@
+{
+  "name": "City Ceinross",
+  "width": 16200,
+  "height": 16200,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [
+    {
+      "x": 4607,
+      "y": 10949,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4620,
+      "y": 10982,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3315,
+      "y": 10920,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3315,
+      "y": 10956,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2558,
+      "y": 11424,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2544,
+      "y": 11392,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1946,
+      "y": 11030,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1946,
+      "y": 11066,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1389,
+      "y": 11683,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1364,
+      "y": 11658,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 701,
+      "y": 11293,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 715,
+      "y": 11326,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10050,
+      "y": 11258,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10050,
+      "y": 11223,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11715,
+      "y": 11454,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11740,
+      "y": 11429,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12234,
+      "y": 11112,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12235,
+      "y": 11148,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12840,
+      "y": 11401,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12840,
+      "y": 11366,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13503,
+      "y": 11255,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13491,
+      "y": 11225,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2365,
+      "y": 12376,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2723,
+      "y": 12219,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5286,
+      "y": 14524,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6199,
+      "y": 14524,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3848,
+      "y": 13842,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1758,
+      "y": 1281,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1745,
+      "y": 1294,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1384,
+      "y": 1792,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1377,
+      "y": 1774,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4560,
+      "y": 2369,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4838,
+      "y": 2370,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4839,
+      "y": 2124,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4886,
+      "y": 1825,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4452,
+      "y": 1822,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4583,
+      "y": 1506,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4829,
+      "y": 1115,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2381,
+      "y": 3695,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3741,
+      "y": 2435,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2897,
+      "y": 2970,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2394,
+      "y": 3010,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1947,
+      "y": 1926,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1531,
+      "y": 2923,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1513,
+      "y": 2154,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3308,
+      "y": 1908,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3921,
+      "y": 2982,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 873,
+      "y": 3287,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 873,
+      "y": 2624,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 868,
+      "y": 3899,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1208,
+      "y": 4843,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1078,
+      "y": 5717,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2111,
+      "y": 4951,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1809,
+      "y": 4970,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1958,
+      "y": 5486,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2561,
+      "y": 4853,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2657,
+      "y": 860,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3390,
+      "y": 852,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3682,
+      "y": 3718,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4141,
+      "y": 4268,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4724,
+      "y": 4539,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2982,
+      "y": 3926,
+      "dim": 21.029665,
+      "bright": 10.5148325,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3033,
+      "y": 4907,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4895,
+      "y": 3031,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14039,
+      "y": 6449,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14058,
+      "y": 7942,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15326,
+      "y": 8008,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15324,
+      "y": 6438,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12282,
+      "y": 7665,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12295,
+      "y": 7633,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11425,
+      "y": 5531,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11411,
+      "y": 5564,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10542,
+      "y": 6099,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10543,
+      "y": 6063,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9550,
+      "y": 5924,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9550,
+      "y": 5888,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11022,
+      "y": 8654,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11036,
+      "y": 8687,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11711,
+      "y": 9104,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11686,
+      "y": 9079,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13952,
+      "y": 9437,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13927,
+      "y": 9412,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7547,
+      "y": 5957,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7547,
+      "y": 5921,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7553,
+      "y": 5392,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7553,
+      "y": 5428,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6116,
+      "y": 6031,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6102,
+      "y": 5998,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5173,
+      "y": 6020,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5209,
+      "y": 6019,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5701,
+      "y": 7030,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5676,
+      "y": 7055,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5911,
+      "y": 7564,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5911,
+      "y": 7529,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3049,
+      "y": 7610,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3074,
+      "y": 7585,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3228,
+      "y": 6949,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3241,
+      "y": 6981,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3241,
+      "y": 9634,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3273,
+      "y": 9621,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4879,
+      "y": 9579,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4865,
+      "y": 9546,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3025,
+      "y": 11845,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3050,
+      "y": 11870,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2066,
+      "y": 12394,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2091,
+      "y": 12419,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1923,
+      "y": 14025,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1947,
+      "y": 14000,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4312,
+      "y": 14806,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4312,
+      "y": 14771,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5241,
+      "y": 13089,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5241,
+      "y": 13125,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5775,
+      "y": 13680,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5775,
+      "y": 13644,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6504,
+      "y": 13139,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6504,
+      "y": 13175,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6517,
+      "y": 13795,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6517,
+      "y": 13760,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8452,
+      "y": 13762,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8452,
+      "y": 13726,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8444,
+      "y": 13191,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8444,
+      "y": 13227,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12308,
+      "y": 13384,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12308,
+      "y": 13419,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12296,
+      "y": 13818,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12296,
+      "y": 13783,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11427,
+      "y": 13802,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11402,
+      "y": 13777,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9546,
+      "y": 13768,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9546,
+      "y": 13733,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11217,
+      "y": 7378,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11217,
+      "y": 7342,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11280,
+      "y": 6816,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11280,
+      "y": 6851,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13242,
+      "y": 13459,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13237,
+      "y": 14077,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13242,
+      "y": 13766,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13241,
+      "y": 13154,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15260,
+      "y": 13413,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15138,
+      "y": 12097,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15138,
+      "y": 12322,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13626,
+      "y": 14384,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13705,
+      "y": 14464,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13705,
+      "y": 14464,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13584,
+      "y": 14465,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13705,
+      "y": 14345,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13584,
+      "y": 14347,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13622,
+      "y": 15333,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13699,
+      "y": 15298,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13699,
+      "y": 15298,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13701,
+      "y": 15420,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13581,
+      "y": 15298,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13582,
+      "y": 15420,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15353,
+      "y": 15289,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15318,
+      "y": 15256,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15318,
+      "y": 15256,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15440,
+      "y": 15255,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15318,
+      "y": 15374,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15440,
+      "y": 15373,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15346,
+      "y": 14368,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15313,
+      "y": 14449,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15313,
+      "y": 14449,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15312,
+      "y": 14328,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15432,
+      "y": 14449,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15430,
+      "y": 14328,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15094,
+      "y": 14831,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15060,
+      "y": 14915,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15060,
+      "y": 14915,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15059,
+      "y": 14793,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15178,
+      "y": 14915,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15177,
+      "y": 14793,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13893,
+      "y": 14842,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13971,
+      "y": 14805,
+      "dim": 100.0,
+      "bright": 50.0,
+      "tintColor": "#FFFFFF",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13971,
+      "y": 14805,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13972,
+      "y": 14927,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13853,
+      "y": 14805,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13854,
+      "y": 14927,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1923,
+      "y": 7869,
+      "dim": 40.0,
+      "bright": 20.0,
+      "tintColor": "#FFB46D",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1177,
+      "y": 7828,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1329,
+      "y": 7828,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2395,
+      "y": 7828,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2547,
+      "y": 7828,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1176,
+      "y": 9435,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1328,
+      "y": 9435,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2393,
+      "y": 9435,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2545,
+      "y": 9435,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 704,
+      "y": 8784,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2016,
+      "y": 9327,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2568,
+      "y": 10541,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 679,
+      "y": 10610,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 679,
+      "y": 10306,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 679,
+      "y": 10001,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 679,
+      "y": 9697,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1176,
+      "y": 9503,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 872,
+      "y": 9503,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2587,
+      "y": 10001,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1633,
+      "y": 10651,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1329,
+      "y": 10651,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1025,
+      "y": 10651,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12632,
+      "y": 14166,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12663,
+      "y": 12907,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13717,
+      "y": 13913,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13702,
+      "y": 13170,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15413,
+      "y": 13163,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15416,
+      "y": 14206,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13888,
+      "y": 12655,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13871,
+      "y": 11676,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13631,
+      "y": 13005,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15402,
+      "y": 12997,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14364,
+      "y": 13481,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14664,
+      "y": 13473,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14356,
+      "y": 13963,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14667,
+      "y": 13931,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFA528",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2042,
+      "y": 9819,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6939,
+      "y": 1856,
+      "dim": 50.0,
+      "bright": 25.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7743,
+      "y": 1942,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7723,
+      "y": 1339,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8648,
+      "y": 13924,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6220,
+      "y": 3569,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6379,
+      "y": 3084,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6852,
+      "y": 3621,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6852,
+      "y": 3317,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6506,
+      "y": 2972,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7155,
+      "y": 3469,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6920,
+      "y": 3165,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 7155,
+      "y": 4076,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6051,
+      "y": 4490,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6962,
+      "y": 5333,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6506,
+      "y": 5333,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6810,
+      "y": 4490,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6009,
+      "y": 5139,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9129,
+      "y": 14247,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9129,
+      "y": 14551,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8286,
+      "y": 14703,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8783,
+      "y": 13902,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9087,
+      "y": 13902,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10756,
+      "y": 13241,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11060,
+      "y": 13241,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11354,
+      "y": 12648,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10436,
+      "y": 13031,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10304,
+      "y": 12911,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10268,
+      "y": 12911,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11371,
+      "y": 11870,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11372,
+      "y": 11632,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10908,
+      "y": 11872,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10921,
+      "y": 11628,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10464,
+      "y": 11932,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11377,
+      "y": 11932,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10451,
+      "y": 12328,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11364,
+      "y": 12328,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11057,
+      "y": 11942,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10958,
+      "y": 12101,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10809,
+      "y": 12101,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12306,
+      "y": 12589,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12306,
+      "y": 11828,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9394,
+      "y": 11936,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10003,
+      "y": 11936,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 8784,
+      "y": 13239,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10001,
+      "y": 13239,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9012,
+      "y": 12544,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10962,
+      "y": 15208,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10962,
+      "y": 15244,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10243,
+      "y": 15220,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10243,
+      "y": 15256,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12990,
+      "y": 10519,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12573,
+      "y": 10780,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13180,
+      "y": 10780,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11981,
+      "y": 9827,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11981,
+      "y": 10785,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11656,
+      "y": 11828,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9849,
+      "y": 4718,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10610,
+      "y": 4718,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10611,
+      "y": 4177,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10119,
+      "y": 4204,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10270,
+      "y": 4280,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10257,
+      "y": 4266,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9698,
+      "y": 4785,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10916,
+      "y": 4785,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 9997,
+      "y": 5318,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10168,
+      "y": 4985,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10384,
+      "y": 5072,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4421,
+      "y": 8950,
+      "dim": 11.4020014,
+      "bright": 5.70100069,
+      "tintColor": "#FF9900",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3916,
+      "y": 7676,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4829,
+      "y": 7676,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3915,
+      "y": 8978,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4828,
+      "y": 8978,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4068,
+      "y": 8985,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4227,
+      "y": 5695,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3467,
+      "y": 5695,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4214,
+      "y": 6547,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 872,
+      "y": 7000,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4602,
+      "y": 5809,
+      "dim": 11.4020014,
+      "bright": 5.70100069,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4750,
+      "y": 6150,
+      "dim": 11.4020014,
+      "bright": 5.70100069,
+      "tintColor": "#FF9900",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3599,
+      "y": 6124,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3454,
+      "y": 6547,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2692,
+      "y": 5746,
+      "dim": 11.4020014,
+      "bright": 5.70100069,
+      "tintColor": "#FF9900",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2261,
+      "y": 6231,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3019,
+      "y": 6231,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2956,
+      "y": 6686,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2850,
+      "y": 7000,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3766,
+      "y": 10636,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4681,
+      "y": 10635,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4677,
+      "y": 9821,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3764,
+      "y": 9821,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 3728,
+      "y": 10282,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5414,
+      "y": 11658,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6097,
+      "y": 11665,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5908,
+      "y": 12062,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5757,
+      "y": 12061,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 6156,
+      "y": 11403,
+      "dim": 50.0,
+      "bright": 25.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 5425,
+      "y": 11395,
+      "dim": 50.0,
+      "bright": 25.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 922,
+      "y": 12348,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10577,
+      "y": 14794,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10686,
+      "y": 14317,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10448,
+      "y": 14147,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10099,
+      "y": 14553,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2051,
+      "y": 15331,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2370,
+      "y": 15332,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1972,
+      "y": 15010,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2458,
+      "y": 15020,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2210,
+      "y": 14845,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 924,
+      "y": 15511,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1197,
+      "y": 14562,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2856,
+      "y": 14836,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4073,
+      "y": 14836,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 2846,
+      "y": 15510,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 4063,
+      "y": 15510,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9800",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13001,
+      "y": 8875,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13015,
+      "y": 8842,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12181,
+      "y": 7010,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12195,
+      "y": 7043,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12789,
+      "y": 2113,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13277,
+      "y": 1343,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12092,
+      "y": 2937,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12024,
+      "y": 1838,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 12140,
+      "y": 2361,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 11998,
+      "y": 1304,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13353,
+      "y": 2736,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13778,
+      "y": 2710,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 13957,
+      "y": 880,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15110,
+      "y": 1428,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15466,
+      "y": 1578,
+      "dim": 11.4020014,
+      "bright": 5.70100069,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14107,
+      "y": 2893,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14784,
+      "y": 2562,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14776,
+      "y": 1703,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14101,
+      "y": 1958,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14086,
+      "y": 2279,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14081,
+      "y": 2572,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15687,
+      "y": 2506,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15453,
+      "y": 2516,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 14939,
+      "y": 3255,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 15449,
+      "y": 3257,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10197,
+      "y": 12287,
+      "dim": 30.0,
+      "bright": 15.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 10233,
+      "y": 12287,
+      "dim": 1.26339293,
+      "bright": 0.631696463,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        12512,
+        12966,
+        12512,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        14334,
+        12968,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        14334,
+        13575,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        12814,
+        14488,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        15552,
+        14488,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        15552,
+        14640,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        11597,
+        15554,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14184,
+        11597,
+        13575,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14640,
+        11597,
+        14184,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        11597,
+        14640,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        14639,
+        13575,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        12358,
+        13575,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        11902,
+        13575,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        11902,
+        13575,
+        12358
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        14334,
+        12512,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        15248,
+        13575,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        15248,
+        13575,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        14334,
+        12512,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        13422,
+        13575,
+        12966
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        14183,
+        13575,
+        13422
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        14032,
+        13424,
+        14032
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        13727,
+        13424,
+        13727
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        12814,
+        14640,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        14334,
+        13575,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        14334,
+        14793,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        13118,
+        13575,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        13118,
+        14793,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        13271,
+        14336,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        13574,
+        14336,
+        13422
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14032,
+        13574,
+        13575,
+        13574
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13728,
+        13878,
+        14336,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13575,
+        13878,
+        13728,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        14334,
+        14336,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        13574,
+        14793,
+        13574
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        13878,
+        14793,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        12814,
+        12968,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        13422,
+        12512,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        13422,
+        13424,
+        13422
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        13574,
+        14793,
+        13422
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        13271,
+        14793,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        13118,
+        13424,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        14032,
+        14336,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        13878,
+        12512,
+        13727
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        14032,
+        14793,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        14334,
+        14793,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14032,
+        13574,
+        14336,
+        13574
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        12814,
+        12814,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13880,
+        14944,
+        13880,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13880,
+        15248,
+        13880,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        15248,
+        13880,
+        15248
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14488,
+        14639,
+        13880,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        14639,
+        14640,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        15248,
+        15249,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        12206,
+        14336,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        11902,
+        14793,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        12053,
+        14336,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        11750,
+        14793,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15400,
+        11597,
+        15554,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14584,
+        14885,
+        14584,
+        15035
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14282,
+        15035,
+        14584,
+        15035
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14282,
+        15035,
+        14282,
+        14734
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14433,
+        14734,
+        14282,
+        14734
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        15248,
+        11446,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        15552,
+        11446,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        14944,
+        11446,
+        15248
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        14639,
+        11446,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        15248,
+        12512,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        14639,
+        11446,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12054,
+        14488,
+        11446,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        15248,
+        12512,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        14639,
+        12512,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        14488,
+        12054,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12512,
+        14639,
+        12512,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        14183,
+        9165,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9772,
+        14334,
+        9772,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        15095,
+        9772,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        15095,
+        10382,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9772,
+        13878,
+        9772,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        15095,
+        11142,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11142,
+        13878,
+        11142,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10533,
+        13878,
+        9926,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        13878,
+        10533,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        13878,
+        11142,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8252,
+        14792,
+        8252,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8860,
+        14792,
+        8252,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8252,
+        14183,
+        8252,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        14792,
+        8860,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8556,
+        13878,
+        8252,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8252,
+        14032,
+        8252,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14032,
+        10990,
+        14032,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14488,
+        11292,
+        14032,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15096,
+        11292,
+        14488,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14032,
+        10836,
+        14032,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        9468,
+        15554,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15400,
+        11292,
+        15554,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14640,
+        9468,
+        14032,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        9468,
+        14640,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15554,
+        9468,
+        15249,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        7643,
+        9165,
+        8099
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        8099,
+        9165,
+        8099
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10230,
+        8099,
+        9772,
+        8099
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        7034,
+        9165,
+        7338
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10230,
+        7490,
+        10230,
+        8099
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        7034,
+        9165,
+        6426
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10230,
+        7490,
+        10230,
+        7338
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        6426,
+        9165,
+        6426
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        7338,
+        10230,
+        7338
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        7034,
+        10990,
+        7338
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        6426,
+        10990,
+        6882
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        4906,
+        5970,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        5362,
+        5970,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        5362,
+        6579,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6428,
+        4448,
+        5970,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        4145,
+        7188,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6884,
+        5362,
+        7188,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6884,
+        4448,
+        6428,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7035,
+        4448,
+        7188,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6428,
+        3992,
+        6428,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        3840,
+        7188,
+        4145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6123,
+        3536,
+        6123,
+        3840
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6123,
+        3080,
+        6123,
+        3536
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6123,
+        3080,
+        6123,
+        2927
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        2927,
+        6123,
+        2927
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        3384,
+        7188,
+        3840
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        3080,
+        7188,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        3080,
+        7188,
+        2927
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        7034,
+        3386,
+        6882
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        7034,
+        3386,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        10229,
+        646,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        10685,
+        1407,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        9924,
+        646,
+        10229
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        10685,
+        1407,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        7794,
+        646,
+        9924
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2168,
+        10685,
+        1712,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2472,
+        10685,
+        2168,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2472,
+        10685,
+        2625,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2625,
+        10685,
+        2625,
+        10532
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2625,
+        10380,
+        2625,
+        9924
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2625,
+        9620,
+        2625,
+        9924
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2625,
+        9620,
+        2625,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5210,
+        10685,
+        5514,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        10685,
+        5970,
+        10532
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5818,
+        10685,
+        5970,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        9772,
+        5514,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        10076,
+        5970,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        9924,
+        5970,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5818,
+        9772,
+        5970,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        10685,
+        4906,
+        10532
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        10076,
+        4906,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        9924,
+        4906,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        11292,
+        3842,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        12206,
+        3993,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        11292,
+        3993,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5058,
+        11292,
+        5058,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        12206,
+        5058,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4602,
+        11292,
+        4298,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        11292,
+        5058,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5362,
+        11446,
+        5362,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5667,
+        12206,
+        5362,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        12206,
+        5970,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        11902,
+        6274,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5362,
+        11446,
+        5362,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5362,
+        11292,
+        5514,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        11292,
+        6274,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        11292,
+        5970,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        12814,
+        646,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1256,
+        13118,
+        646,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13118,
+        1256,
+        13118
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13118,
+        1712,
+        12966
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        12510,
+        646,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        12053,
+        800,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        12814,
+        1712,
+        12510
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        12206,
+        1712,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        951,
+        14183,
+        646,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        13271,
+        646,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1560,
+        14183,
+        951,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1104,
+        13271,
+        646,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1560,
+        14183,
+        1712,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13878,
+        1712,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13271,
+        1104,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13574,
+        1712,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        15400,
+        646,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        14639,
+        646,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1560,
+        14334,
+        646,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        15552,
+        646,
+        15400
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2472,
+        15552,
+        646,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2472,
+        15552,
+        2472,
+        15400
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2472,
+        14792,
+        2472,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2472,
+        14792,
+        2168,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4449,
+        15552,
+        4449,
+        15400
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        15552,
+        4449,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4449,
+        15248,
+        4449,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        14944,
+        4449,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5210,
+        14944,
+        4906,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5210,
+        14944,
+        5210,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5210,
+        14639,
+        5210,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5818,
+        14488,
+        5210,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        14944,
+        6274,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        14488,
+        5818,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        15400,
+        6274,
+        15095
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        14639,
+        6274,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        15552,
+        6274,
+        15400
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7340,
+        2015,
+        6730,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6730,
+        1254,
+        6730,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7948,
+        2015,
+        7491,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7188,
+        646,
+        6579,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8252,
+        646,
+        8252,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7948,
+        2015,
+        8252,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7644,
+        646,
+        7188,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8100,
+        646,
+        7644,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8100,
+        646,
+        8252,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        798,
+        6274,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6579,
+        1103,
+        6274,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        798,
+        6274,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6579,
+        646,
+        6274,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        2927,
+        9926,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        3384,
+        9926,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        2624,
+        9926,
+        2471
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        2927,
+        10990,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        2166,
+        9926,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        1710,
+        9926,
+        1559
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        798,
+        9926,
+        1254
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10533,
+        798,
+        9926,
+        798
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        1710,
+        10990,
+        1559
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        798,
+        10990,
+        1254
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        798,
+        10533,
+        798
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        951,
+        9468,
+        646,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3081,
+        9468,
+        1104,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3081,
+        7794,
+        646,
+        7794
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3081,
+        7794,
+        3081,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6730,
+        1103,
+        6579,
+        1103
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        4601,
+        5970,
+        4906
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6730,
+        1254,
+        6730,
+        950
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9772,
+        13878,
+        9926,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9012,
+        13878,
+        9165,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        14183,
+        9772,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9316,
+        14488,
+        9772,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8709,
+        13878,
+        8860,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        14488,
+        9316,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        14792,
+        9165,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9165,
+        14334,
+        9165,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        3840,
+        6884,
+        3840
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6884,
+        2927,
+        6884,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6884,
+        3536,
+        6884,
+        3840
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6123,
+        3840,
+        6274,
+        3840
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        4601,
+        5970,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        13271,
+        10838,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        13271,
+        10990,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        12814,
+        10838,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        12814,
+        11142,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        12206,
+        10382,
+        12966
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        12206,
+        11446,
+        12966
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11142,
+        12814,
+        11142,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        12814,
+        11446,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        12966,
+        11446,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        13271,
+        11446,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        12814,
+        10686,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        12966,
+        10382,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        13271,
+        10533,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        11597,
+        11446,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        11750,
+        11446,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        12053,
+        10382,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        11597,
+        10382,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        11597,
+        10990,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11142,
+        12358,
+        10382,
+        12358
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        11902,
+        10382,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11142,
+        11902,
+        10838,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        12358,
+        11446,
+        12358
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        12053,
+        11446,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        11902,
+        11446,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11598,
+        12662,
+        12814,
+        12662
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        12358,
+        12814,
+        12662
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        12053,
+        12814,
+        12358
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12207,
+        11750,
+        12814,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        11902,
+        12814,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        12053,
+        12358,
+        12662
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        11902,
+        12358,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8709,
+        12814,
+        8709,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9012,
+        13271,
+        8709,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8709,
+        12510,
+        8709,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9012,
+        12510,
+        8709,
+        12510
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10077,
+        13271,
+        9772,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10077,
+        11902,
+        10077,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9316,
+        11902,
+        9316,
+        12510
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9772,
+        11902,
+        9316,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10077,
+        11902,
+        9772,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        10836,
+        12358,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        10836,
+        12358,
+        10836
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        10076,
+        12358,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12968,
+        10836,
+        13424,
+        10836
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13424,
+        10836,
+        13424,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        10076,
+        12358,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13424,
+        9924,
+        13424,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        9468,
+        12358,
+        9316
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13424,
+        9316,
+        12358,
+        9316
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13424,
+        9924,
+        13424,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13424,
+        9468,
+        13424,
+        9316
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13119,
+        10076,
+        12358,
+        10076
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13272,
+        10076,
+        13424,
+        10076
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        11292,
+        15096,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        9772,
+        12054,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12054,
+        9924,
+        12054,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12054,
+        10532,
+        12054,
+        10076
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12054,
+        10836,
+        12054,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        10836,
+        12054,
+        10836
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        9924,
+        10382,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        10532,
+        10382,
+        10076
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        10836,
+        11142,
+        10836
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        10836,
+        10382,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11598,
+        11750,
+        11902,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11598,
+        11902,
+        11598,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11598,
+        12358,
+        11598,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11598,
+        12662,
+        11598,
+        12510
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14277,
+        9756,
+        14277,
+        10661
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15182,
+        9756,
+        14277,
+        9756
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15182,
+        10661,
+        15182,
+        9756
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        5057,
+        9621,
+        4145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        4145,
+        9772,
+        4145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10230,
+        4145,
+        9926,
+        4145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        4448,
+        10990,
+        4906
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        4145,
+        10382,
+        4145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        4145,
+        10990,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        4145,
+        10990,
+        4145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        5057,
+        9621,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        5362,
+        9772,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10230,
+        5362,
+        9926,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        4752,
+        9621,
+        4752
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        5362,
+        10533,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        4906,
+        10990,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        5362,
+        10990,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        4752,
+        10990,
+        4752
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        9011,
+        3842,
+        8860
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        9011,
+        3842,
+        9011
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        8099,
+        3842,
+        8555
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        9011,
+        4906,
+        8860
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        7794,
+        3842,
+        7643
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        7643,
+        3842,
+        7643
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        8099,
+        4906,
+        8555
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        7643,
+        4449,
+        7643
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        7794,
+        4906,
+        7643
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        7034,
+        4298,
+        6882
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        6578,
+        4754,
+        6426
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        6578,
+        4754,
+        6578
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        5969,
+        4754,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        5818,
+        4754,
+        5666
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3537,
+        5666,
+        4754,
+        5666
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        5818,
+        3386,
+        5666
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        5666,
+        3537,
+        5666
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        6274,
+        3386,
+        5969
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1560,
+        6274,
+        2776,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1104,
+        6274,
+        1560,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        7034,
+        2016,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1104,
+        6274,
+        646,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        7034,
+        646,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1256,
+        7034,
+        1407,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        7034,
+        951,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2642,
+        2640,
+        4310,
+        2640
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5372,
+        2034,
+        5523,
+        2034
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2232,
+        1478,
+        3586,
+        1478
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3586,
+        1780,
+        3586,
+        1478
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2232,
+        1780,
+        2232,
+        1478
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2642,
+        4612,
+        2642,
+        2640
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1479,
+        2231,
+        1780,
+        2231
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1479,
+        4037,
+        1479,
+        2231
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2642,
+        4914,
+        2642,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2490,
+        4763,
+        2642,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2187,
+        4763,
+        2338,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2187,
+        5066,
+        2187,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2036,
+        5066,
+        2187,
+        5066
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1479,
+        4037,
+        1780,
+        4037
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        974,
+        4763,
+        2036,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2036,
+        5066,
+        2036,
+        4914
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1732,
+        5218,
+        1732,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1884,
+        5066,
+        1884,
+        4914
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1732,
+        5066,
+        1884,
+        5066
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1884,
+        5522,
+        1884,
+        5218
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1884,
+        5370,
+        2036,
+        5370
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1428,
+        5066,
+        1428,
+        4914
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1276,
+        5066,
+        1581,
+        5066
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1581,
+        5370,
+        1884,
+        5370
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1125,
+        5066,
+        1125,
+        4763
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1428,
+        5218,
+        1428,
+        5066
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1428,
+        5218,
+        1581,
+        5218
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1276,
+        5522,
+        1732,
+        5522
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        974,
+        5066,
+        1125,
+        5066
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1125,
+        5370,
+        1428,
+        5370
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1732,
+        5825,
+        1732,
+        5674
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        822,
+        5218,
+        1125,
+        5218
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1276,
+        5674,
+        1276,
+        5370
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1428,
+        5674,
+        1581,
+        5674
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        974,
+        5825,
+        1732,
+        5825
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        974,
+        5825,
+        974,
+        5370
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4322,
+        5831,
+        4322,
+        5681
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4322,
+        5982,
+        4322,
+        6587
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        6578,
+        3537,
+        6578
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        6426,
+        3386,
+        6730
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        6730,
+        4298,
+        6578
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3081,
+        5666,
+        3081,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2776,
+        7034,
+        3081,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2320,
+        7034,
+        2472,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2168,
+        5666,
+        2168,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3081,
+        5666,
+        2168,
+        5666
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2928,
+        6274,
+        3081,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3688,
+        10685,
+        3688,
+        10532
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3688,
+        10685,
+        3842,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        10685,
+        3993,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3688,
+        10076,
+        3688,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3688,
+        9924,
+        3688,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        9772,
+        3688,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        10685,
+        4754,
+        10532
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        10076,
+        4754,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        9924,
+        4754,
+        9772
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        10685,
+        5058,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        646,
+        12814,
+        646,
+        12510
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1407,
+        12053,
+        1104,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13878,
+        1712,
+        13727
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        14792,
+        1712,
+        14639
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1560,
+        14334,
+        1712,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        14488,
+        1712,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        14792,
+        1864,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2776,
+        15248,
+        2776,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4146,
+        15552,
+        2776,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2776,
+        15095,
+        2776,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3081,
+        14792,
+        2776,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4146,
+        14792,
+        3232,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4146,
+        15248,
+        4146,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4146,
+        14944,
+        4146,
+        15248
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4146,
+        14944,
+        4146,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2776,
+        15095,
+        2776,
+        15248
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        3384,
+        10990,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        2624,
+        10990,
+        2471
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14488,
+        15552,
+        14640,
+        15552
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        13575,
+        12966,
+        13575,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12512,
+        13271,
+        12512,
+        12966
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        14334,
+        12968,
+        14334
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        13422,
+        14336,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14793,
+        13422,
+        14793,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14640,
+        12814,
+        14488,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14336,
+        14183,
+        14336,
+        14032
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12512,
+        13422,
+        12512,
+        13574
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12512,
+        13574,
+        12512,
+        13727
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12512,
+        14183,
+        12512,
+        13878
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14793,
+        14334,
+        14640,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14640,
+        14334,
+        14488,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14488,
+        14334,
+        14336,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14793,
+        14183,
+        14793,
+        14032
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12968,
+        12814,
+        12814,
+        12814
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14336,
+        12206,
+        14336,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        14793,
+        11902,
+        14793,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        15400,
+        11597,
+        15249,
+        11597
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        8252,
+        14488,
+        8252,
+        14639
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8252,
+        14032,
+        8252,
+        14183
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9621,
+        8099,
+        9772,
+        8099
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        10990,
+        7034,
+        10990,
+        6882
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        7035,
+        4448,
+        6884,
+        4448
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        3386,
+        6730,
+        3386,
+        6882
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5818,
+        10685,
+        5514,
+        10685
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        10532,
+        5970,
+        10380
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5514,
+        9772,
+        5818,
+        9772
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        10076,
+        5970,
+        9924
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        10380,
+        4906,
+        10532
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        9924,
+        4906,
+        10076
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        12206,
+        3993,
+        12206
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        12206,
+        4449,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        4449,
+        12206,
+        4602,
+        12206
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        4906,
+        12206,
+        4602,
+        12206
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3993,
+        11292,
+        4298,
+        11292
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4602,
+        11292,
+        4906,
+        11292
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5970,
+        12206,
+        5667,
+        12206
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        11597,
+        6274,
+        11902
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        12206,
+        1712,
+        12510
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4449,
+        15248,
+        4449,
+        15400
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4449,
+        14944,
+        4449,
+        15095
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5210,
+        14639,
+        5210,
+        14792
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        15095,
+        6274,
+        14944
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6274,
+        14792,
+        6274,
+        14639
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        2927,
+        9926,
+        2624
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        2471,
+        9926,
+        2166
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        1559,
+        9926,
+        1254
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        1710,
+        10990,
+        2015
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        1254,
+        10990,
+        1559
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2625,
+        10532,
+        2625,
+        10380
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1104,
+        9468,
+        951,
+        9468
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        6579,
+        5362,
+        6730,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        6730,
+        5362,
+        6884,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        7340,
+        2015,
+        7491,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        6730,
+        950,
+        6730,
+        798
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        6730,
+        798,
+        6730,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        9012,
+        13878,
+        8860,
+        13878
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        9165,
+        14488,
+        9165,
+        14334
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        9165,
+        13878,
+        9165,
+        14183
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8709,
+        13878,
+        8556,
+        13878
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6884,
+        3536,
+        6884,
+        3384
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        6428,
+        3840,
+        6428,
+        3992
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        10838,
+        13271,
+        10990,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        11294,
+        12814,
+        11142,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        10533,
+        13271,
+        10686,
+        13271
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11446,
+        11902,
+        11446,
+        11750
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        11597,
+        10686,
+        11597
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        12053,
+        10382,
+        12206
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        11902,
+        10686,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        11142,
+        12358,
+        11294,
+        12358
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        11446,
+        12206,
+        11446,
+        12053
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11294,
+        11902,
+        11142,
+        11902
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12814,
+        12053,
+        12814,
+        11902
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        11902,
+        12358,
+        12053
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        9772,
+        13271,
+        9470,
+        13271
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9012,
+        12510,
+        9316,
+        12510
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9316,
+        13271,
+        9012,
+        13271
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9316,
+        13271,
+        9470,
+        13271
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        9772,
+        14334,
+        9772,
+        14183
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12512,
+        15095,
+        12512,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12358,
+        10685,
+        12358,
+        10380
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12814,
+        10836,
+        12968,
+        10836
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        13424,
+        10380,
+        13424,
+        10685
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12358,
+        9772,
+        12358,
+        9468
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13424,
+        9468,
+        13424,
+        9772
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13119,
+        10076,
+        13272,
+        10076
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        15249,
+        11292,
+        15400,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12054,
+        10076,
+        12054,
+        9924
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12054,
+        10685,
+        12054,
+        10532
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        9924,
+        10382,
+        10076
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11142,
+        10836,
+        11294,
+        10836
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        10382,
+        10532,
+        10382,
+        10685
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12207,
+        11750,
+        12054,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        12054,
+        11750,
+        11902,
+        11750
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        11598,
+        11902,
+        11598,
+        12053
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11598,
+        12358,
+        11598,
+        12510
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9926,
+        4145,
+        9772,
+        4145
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10382,
+        4145,
+        10230,
+        4145
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        4145,
+        10686,
+        4145
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9772,
+        5362,
+        9926,
+        5362
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10230,
+        5362,
+        10382,
+        5362
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10686,
+        5362,
+        10838,
+        5362
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10838,
+        4752,
+        10686,
+        4752
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        10533,
+        5362,
+        10686,
+        5362
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        3842,
+        8860,
+        3842,
+        8555
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3842,
+        8099,
+        3842,
+        7794
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4906,
+        8555,
+        4906,
+        8860
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4449,
+        7643,
+        4298,
+        7643
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        4906,
+        7794,
+        4906,
+        8099
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        6426,
+        4754,
+        6274
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        5969,
+        4754,
+        5818
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        6274,
+        3386,
+        6426
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        7034,
+        1407,
+        7034
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1256,
+        7034,
+        951,
+        7034
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3386,
+        5818,
+        3386,
+        5969
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4298,
+        6882,
+        4298,
+        6730
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2472,
+        7034,
+        2625,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2625,
+        7034,
+        2776,
+        7034
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2320,
+        7034,
+        2016,
+        7034
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2928,
+        6274,
+        2776,
+        6274
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        3842,
+        10685,
+        3993,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        3688,
+        10380,
+        3688,
+        10532
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3688,
+        9924,
+        3688,
+        10076
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        10532,
+        4754,
+        10380
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        10076,
+        4754,
+        9924
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5058,
+        10685,
+        5210,
+        10685
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        5667,
+        11292,
+        5970,
+        11292
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5667,
+        11292,
+        5514,
+        11292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1712,
+        12966,
+        1712,
+        12814
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1407,
+        12053,
+        1712,
+        12053
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        800,
+        12053,
+        1104,
+        12053
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        13727,
+        1712,
+        13574
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        2472,
+        15095,
+        2472,
+        15400
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1712,
+        14639,
+        1712,
+        14488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1864,
+        14792,
+        2168,
+        14792
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3232,
+        14792,
+        3081,
+        14792
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        4906,
+        14944,
+        4754,
+        14944
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        10990,
+        2624,
+        10990,
+        2927
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        2166,
+        10990,
+        2471
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10990,
+        2166,
+        10990,
+        2015
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        9926,
+        2015,
+        9926,
+        1710
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4322,
+        6587,
+        4298,
+        6578
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        882,
+        5992,
+        1437,
+        5992
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        411,
+        5992,
+        964,
+        5992
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        448,
+        5466,
+        448,
+        6020
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        454,
+        3896,
+        454,
+        4450
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        458,
+        3395,
+        458,
+        3948
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        458,
+        2867,
+        458,
+        3422
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        458,
+        2354,
+        458,
+        2909
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        460,
+        1318,
+        460,
+        1871
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        460,
+        810,
+        460,
+        1364
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        460,
+        372,
+        460,
+        928
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        998,
+        414,
+        442,
+        414
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1498,
+        412,
+        944,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2547,
+        412,
+        1992,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3020,
+        408,
+        2464,
+        408
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3530,
+        412,
+        2974,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4016,
+        412,
+        3462,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4491,
+        412,
+        3936,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5968,
+        412,
+        5414,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5994,
+        922,
+        5994,
+        366
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5991,
+        1428,
+        5991,
+        874
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5991,
+        1769,
+        5991,
+        1216
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5178,
+        1734,
+        5732,
+        1734
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5216,
+        1874,
+        5216,
+        2428
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5484,
+        1734,
+        6038,
+        1734
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5222,
+        1702,
+        5222,
+        2256
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        356,
+        1091,
+        1072,
+        374
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        249,
+        1008,
+        968,
+        292
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        195,
+        954,
+        912,
+        236
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        460,
+        1818,
+        460,
+        2372
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2031,
+        408,
+        1478,
+        408
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        454,
+        4420,
+        454,
+        4974
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        452,
+        4932,
+        452,
+        5488
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1420,
+        380,
+        908,
+        592
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        352,
+        1433,
+        564,
+        920
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5746,
+        1758,
+        5960,
+        1246
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        634,
+        6012,
+        243,
+        5621
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16096,
+        8064,
+        16096,
+        8806
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16095,
+        8656,
+        16095,
+        9396
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16107,
+        5570,
+        16107,
+        6311
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16113,
+        4898,
+        16113,
+        5638
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16032,
+        5099,
+        16032,
+        5849
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16032,
+        4553,
+        16032,
+        5302
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16030,
+        3840,
+        16030,
+        4590
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16028,
+        3155,
+        16028,
+        3905
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16038,
+        2453,
+        16038,
+        3203
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16056,
+        1754,
+        16056,
+        2504
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16058,
+        1090,
+        16058,
+        1840
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16064,
+        395,
+        16064,
+        1145
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16068,
+        120,
+        16068,
+        870
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15328,
+        172,
+        16078,
+        172
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14652,
+        164,
+        15400,
+        164
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13990,
+        158,
+        14740,
+        158
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13322,
+        158,
+        14072,
+        158
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12650,
+        155,
+        13400,
+        155
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11994,
+        158,
+        12744,
+        158
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11337,
+        161,
+        12087,
+        161
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10689,
+        164,
+        11438,
+        164
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9987,
+        164,
+        10736,
+        164
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8019,
+        158,
+        8769,
+        158
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        7353,
+        158,
+        8103,
+        158
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6672,
+        170,
+        7422,
+        170
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5976,
+        184,
+        6726,
+        184
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16054,
+        9174,
+        16054,
+        9924
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16053,
+        9874,
+        16053,
+        10622
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16076,
+        10550,
+        16076,
+        11300
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16071,
+        11255,
+        16071,
+        12005
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16084,
+        11998,
+        16084,
+        12748
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16098,
+        15197,
+        16098,
+        15946
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13660,
+        15996,
+        12910,
+        15996
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12988,
+        15996,
+        12238,
+        15996
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12294,
+        16006,
+        11546,
+        16006
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11576,
+        16008,
+        10826,
+        16008
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10992,
+        16014,
+        10242,
+        16014
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        10336,
+        16012,
+        9586,
+        16012
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        9318,
+        16030,
+        8568,
+        16030
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8956,
+        16030,
+        8206,
+        16030
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6726,
+        16049,
+        5976,
+        16049
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        6057,
+        16049,
+        5307,
+        16049
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5376,
+        16043,
+        4626,
+        16043
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4754,
+        16049,
+        4004,
+        16049
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2218,
+        16067,
+        1468,
+        16067
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1590,
+        16070,
+        840,
+        16070
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        909,
+        16067,
+        159,
+        16067
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        120,
+        16128,
+        120,
+        15378
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        120,
+        15436,
+        120,
+        14686
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        128,
+        14748,
+        128,
+        13998
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        123,
+        14171,
+        123,
+        13421
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        126,
+        13614,
+        126,
+        12864
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        134,
+        13068,
+        134,
+        12318
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        140,
+        11002,
+        140,
+        10252
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        172,
+        6905,
+        172,
+        6155
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        166,
+        6443,
+        166,
+        5693
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14898,
+        15982,
+        14148,
+        15982
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16160,
+        15968,
+        15411,
+        15968
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15542,
+        15978,
+        14792,
+        15978
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14274,
+        15990,
+        13524,
+        15990
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12135,
+        8141,
+        12039,
+        8141
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12092,
+        8162,
+        12022,
+        8094
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12045,
+        8147,
+        12045,
+        8051
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12022,
+        8104,
+        12092,
+        8036
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12039,
+        8057,
+        12135,
+        8057
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12082,
+        8036,
+        12150,
+        8104
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12128,
+        8051,
+        12128,
+        8147
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12150,
+        8094,
+        12082,
+        8162
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12596,
+        5074,
+        12498,
+        5074
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12552,
+        5096,
+        12483,
+        5027
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12506,
+        5081,
+        12506,
+        4984
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12483,
+        5038,
+        12552,
+        4968
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12498,
+        4991,
+        12596,
+        4991
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12542,
+        4968,
+        12610,
+        5038
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12588,
+        4984,
+        12588,
+        5081
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12610,
+        5027,
+        12542,
+        5096
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5388,
+        5381,
+        5292,
+        5381
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5344,
+        5402,
+        5277,
+        5334
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5298,
+        5387,
+        5298,
+        5291
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5277,
+        5344,
+        5344,
+        5276
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5292,
+        5297,
+        5388,
+        5297
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5336,
+        5276,
+        5403,
+        5344
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5382,
+        5291,
+        5382,
+        5387
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5403,
+        5334,
+        5336,
+        5402
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2322,
+        11820,
+        2226,
+        11820
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2278,
+        11843,
+        2210,
+        11774
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2232,
+        11826,
+        2232,
+        11730
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2210,
+        11783,
+        2278,
+        11716
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2226,
+        11738,
+        2322,
+        11738
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2268,
+        11716,
+        2337,
+        11783
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2314,
+        11730,
+        2314,
+        11826
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2337,
+        11774,
+        2268,
+        11843
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11828,
+        14120,
+        11732,
+        14120
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11784,
+        14142,
+        11716,
+        14074
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11739,
+        14128,
+        11739,
+        14030
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11716,
+        14084,
+        11784,
+        14015
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11732,
+        14038,
+        11828,
+        14038
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11775,
+        14015,
+        11844,
+        14084
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11822,
+        14030,
+        11822,
+        14128
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11844,
+        14074,
+        11775,
+        14142
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8762,
+        4307,
+        8666,
+        4307
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8718,
+        4330,
+        8650,
+        4260
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8672,
+        4314,
+        8672,
+        4217
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8650,
+        4271,
+        8718,
+        4202
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8666,
+        4224,
+        8762,
+        4224
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8709,
+        4202,
+        8776,
+        4271
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8756,
+        4217,
+        8756,
+        4314
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        8776,
+        4260,
+        8709,
+        4330
+      ],
+      "move": 1,
+      "sense": 2,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16082,
+        13330,
+        16082,
+        12580
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16078,
+        13828,
+        16078,
+        13078
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16072,
+        14324,
+        16072,
+        13574
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16066,
+        14987,
+        16066,
+        14237
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16078,
+        15274,
+        16078,
+        14524
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        146,
+        10350,
+        146,
+        9600
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        152,
+        9707,
+        152,
+        8957
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        154,
+        9035,
+        154,
+        8285
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        160,
+        8416,
+        160,
+        7666
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5967,
+        784,
+        5576,
+        392
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        5466,
+        412,
+        4912,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4992,
+        412,
+        4437,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2538,
+        5249,
+        1983,
+        5249
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1694,
+        6032,
+        1906,
+        5520
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1188,
+        5990,
+        1743,
+        5990
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2019,
+        5243,
+        1808,
+        5756
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        4058,
+        16050,
+        3308,
+        16050
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        3390,
+        16048,
+        2640,
+        16048
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2758,
+        16062,
+        2008,
+        16062
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12876,
+        3262,
+        13172,
+        3262
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13144,
+        3260,
+        13438,
+        3260
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14082,
+        3269,
+        14378,
+        3269
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14350,
+        3266,
+        14644,
+        3266
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14624,
+        3264,
+        14919,
+        3264
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14890,
+        3263,
+        15186,
+        3263
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15162,
+        3260,
+        15458,
+        3260
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15422,
+        3263,
+        15716,
+        3263
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15678,
+        3263,
+        15974,
+        3263
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15818,
+        3264,
+        16113,
+        3264
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16072,
+        2968,
+        16072,
+        3262
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16077,
+        2681,
+        16077,
+        2975
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16083,
+        2399,
+        16083,
+        2693
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16080,
+        2122,
+        16080,
+        2416
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16080,
+        1840,
+        16080,
+        2134
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16080,
+        1590,
+        16080,
+        1886
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16080,
+        1313,
+        16080,
+        1607
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16082,
+        1037,
+        16082,
+        1332
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16082,
+        770,
+        16082,
+        1064
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16083,
+        497,
+        16083,
+        791
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16083,
+        215,
+        16083,
+        509
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16083,
+        136,
+        16083,
+        430
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15789,
+        140,
+        16084,
+        140
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15502,
+        137,
+        15798,
+        137
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15249,
+        132,
+        15544,
+        132
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14973,
+        137,
+        15268,
+        137
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14704,
+        134,
+        15000,
+        134
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14446,
+        134,
+        14742,
+        134
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14200,
+        138,
+        14496,
+        138
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13938,
+        137,
+        14232,
+        137
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13695,
+        140,
+        13989,
+        140
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13419,
+        142,
+        13714,
+        142
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13149,
+        140,
+        13444,
+        140
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12936,
+        136,
+        13232,
+        136
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12867,
+        137,
+        13162,
+        137
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12894,
+        116,
+        12894,
+        412
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12894,
+        350,
+        12894,
+        646
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12896,
+        436,
+        12896,
+        731
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12920,
+        719,
+        12626,
+        719
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12690,
+        718,
+        12394,
+        718
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12440,
+        718,
+        12144,
+        718
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12194,
+        718,
+        11898,
+        718
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11900,
+        992,
+        11900,
+        698
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11906,
+        1216,
+        11906,
+        922
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11730,
+        1223,
+        12024,
+        1223
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11738,
+        1210,
+        11738,
+        1505
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11740,
+        1458,
+        11740,
+        1752
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12018,
+        1739,
+        11722,
+        1739
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11894,
+        2048,
+        11894,
+        1752
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11894,
+        2300,
+        11894,
+        2004
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        11858,
+        2282,
+        12152,
+        2282
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12068,
+        2280,
+        12068,
+        2576
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12078,
+        2478,
+        12078,
+        2774
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12074,
+        2600,
+        12074,
+        2896
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12362,
+        2904,
+        12066,
+        2904
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12621,
+        2908,
+        12326,
+        2908
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12855,
+        2903,
+        12560,
+        2903
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12861,
+        3122,
+        12861,
+        2916
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        12920,
+        2900,
+        12626,
+        2900
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14106,
+        2982,
+        14106,
+        3278
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14104,
+        2716,
+        14104,
+        3011
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14106,
+        2444,
+        14106,
+        2738
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13186,
+        714,
+        12891,
+        714
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13467,
+        713,
+        13173,
+        713
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13736,
+        713,
+        13440,
+        713
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14106,
+        2453,
+        14106,
+        2159
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14106,
+        2166,
+        14106,
+        1871
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14103,
+        1882,
+        14103,
+        1586
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14100,
+        1325,
+        14100,
+        1031
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14102,
+        1060,
+        14102,
+        764
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14103,
+        984,
+        14103,
+        689
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13918,
+        702,
+        14126,
+        702
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13432,
+        2980,
+        13432,
+        3275
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        13434,
+        2696,
+        13434,
+        2992
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14091,
+        2704,
+        13796,
+        2704
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14109,
+        707,
+        14403,
+        707
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14391,
+        707,
+        14686,
+        707
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14664,
+        706,
+        14958,
+        706
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14980,
+        674,
+        14980,
+        968
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14980,
+        944,
+        14980,
+        1240
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14978,
+        1212,
+        14978,
+        1506
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14967,
+        1487,
+        15262,
+        1487
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15240,
+        1487,
+        15536,
+        1487
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15490,
+        1494,
+        15786,
+        1494
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15782,
+        1494,
+        16076,
+        1494
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14974,
+        1490,
+        14974,
+        1784
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14974,
+        2033,
+        14974,
+        2328
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15258,
+        2304,
+        14962,
+        2304
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15537,
+        2303,
+        15242,
+        2303
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        15798,
+        2302,
+        15502,
+        2302
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        16026,
+        2298,
+        15732,
+        2298
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14976,
+        2578,
+        14976,
+        2282
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14978,
+        3216,
+        14978,
+        2922
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14978,
+        3132,
+        14978,
+        2837
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14970,
+        2880,
+        14674,
+        2880
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        14410,
+        2884,
+        14115,
+        2884
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}

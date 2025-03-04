@@ -1,0 +1,345 @@
+{
+  "name": "Subsolo Prefeitura",
+  "width": 1800,
+  "height": 1500,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [
+    {
+      "x": 492,
+      "y": 1353,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 697,
+      "y": 681,
+      "dim": 10.2870388,
+      "bright": 5.1435194,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1697,
+      "y": 1002,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 813,
+      "y": 123,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 674,
+      "y": 321,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 103,
+      "y": 155,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 103,
+      "y": 1007,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1405,
+      "y": 179,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1167,
+      "y": 414,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1638,
+      "y": 415,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 674,
+      "y": 1002,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 987,
+      "y": 693,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1126,
+      "y": 836,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1158,
+      "y": 1375,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    },
+    {
+      "x": 1669,
+      "y": 1375,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.13
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        45,
+        65,
+        1242,
+        65
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        45,
+        1433,
+        900,
+        1433
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        900,
+        749,
+        900,
+        1433
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        729,
+        749,
+        1071,
+        749
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1755,
+        1433,
+        1755,
+        920
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1071,
+        1433,
+        1755,
+        1433
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1071,
+        749,
+        1071,
+        1433
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1755,
+        65,
+        1755,
+        578
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1242,
+        65,
+        1755,
+        65
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1071,
+        578,
+        1071,
+        65
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        729,
+        1433,
+        729,
+        920
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        45,
+        578,
+        45,
+        1433
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        729,
+        236,
+        729,
+        749
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        45,
+        578,
+        45,
+        65
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1755,
+        920,
+        1755,
+        749
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1755,
+        749,
+        1755,
+        578
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        729,
+        920,
+        729,
+        749
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
